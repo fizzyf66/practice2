@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/新建文件夹/build",
+  "command": "\"D:/Program Files/11.2 2022.02/bin/arm-none-eabi-g++.exe\"   -g -o CMakeFiles/main.dir/main.cpp.obj -c D:/新建文件夹/main.cpp",
+  "file": "D:/新建文件夹/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]
